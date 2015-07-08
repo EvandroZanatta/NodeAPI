@@ -1,0 +1,23 @@
+{
+  "name": "NodeAPI",
+  "version": "1.0.0",
+  "description": "NodeAPI para aprendizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvandroZanatta/NodeAPI.git"
+  },
+  "author": "Evandro Zanatta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvandroZanatta/NodeAPI/issues"
+  },
+  "homepage": "https://github.com/EvandroZanatta/NodeAPI",
+  "dependencies": {
+    "pm2": "^0.14.3",
+    "restify": "^3.0.3"
+  }
+}
